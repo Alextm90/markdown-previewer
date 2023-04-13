@@ -1,2 +1,4 @@
-live project: https://my-markdown-previewer.surge.sh/
-Created with React
+Markdown Previewer built with React
+
+
+https://my-markdown-previewer.surge.sh/
